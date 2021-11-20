@@ -17,7 +17,7 @@ function stringConcat() {
 
     var tacoCat = taco + ' ' + cat;
 
-    alert('tacoCat');
+    alert(tacoCat);
 }
 
 stringConcat();
