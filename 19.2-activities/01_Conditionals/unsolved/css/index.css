@@ -1,20 +1,20 @@
 .tabContainer {
-  max-width: 500px;
-  background-color: #F4F4F4;
+  max-width: 700px;
+  background-color: thistle;
   margin: 0 auto;
 }
 .tab {
   display:inline-block;
   padding: 15px 25px;
-  width: 75px;
+  width: 150px;
   text-align: center;
   color: white;
   font-size: 18px;
-  font-family: arial, helvetica;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
   cursor: pointer;
 }
 .tabBar {
-  background-color: #999999;
+  background-color: #372b46;
 }
 .tab1 {
 
@@ -23,7 +23,7 @@
 
 }
 .active {
-  background-color: #0092FF;
+  background-color: #843dda;
 }
 #tabContent1{
 
@@ -36,4 +36,6 @@
 }
 .listItem {
   padding: 18px;
+  font-size: 14px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
