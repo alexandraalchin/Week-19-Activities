@@ -1,5 +1,5 @@
 $("#enter").on("click", function(){
-  var task = $("todoItem").val();
+  var task = $("#todoItem").val();
   $("#todoList").append("<div class='task'>" + task + "<div class='x fas fa-times'></div></div>");
 });
 

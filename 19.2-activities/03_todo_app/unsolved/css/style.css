@@ -2,7 +2,7 @@ body {
   font-family: "Roboto", helvetica, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #00b3f9;
+  background-color: #d1b181;
 }
 h1 {
   margin: 5px;
@@ -55,7 +55,7 @@ p {
   cursor: pointer;
   transition: all 0.75s ease;
   background-color: white;
-  border: 1px solid lightgrey;
+  border: 1px solid rgb(245, 224, 165);
   border-radius: 3px;
 }
 .x {
@@ -64,8 +64,8 @@ p {
   margin-top: 3px;
 }
 .done {
-  color: #38912f;
-  border: 2px solid #38912f;
-  background: #d3f4d0;
+  color: #5e8f59;
+  border: 2px solid #264d21;
+  background: #bbd6b9;
   font-weight: 700;
 }
