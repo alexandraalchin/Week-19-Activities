@@ -16,3 +16,8 @@ $(".searchButton").on("click", function(){
             $(".searchIcon").removeClass("fa-times").addClass("fa-times");
         }
 });
+
+function fade() {
+    $('.preloader').fadeOut("slow");
+}
+setTimeout(fade, 3000);
