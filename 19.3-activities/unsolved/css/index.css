@@ -4,7 +4,6 @@
 .toggleContainer {
   padding: 15px;
   display: none;
-  transition: all;
 }
 .hiddenSlide {
   display: none;
