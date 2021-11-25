@@ -1,5 +1,5 @@
 /* W3.CSS 4.10 February 2018 by Jan Egil and Borge Refsnes */
- html{
+html{
     box-sizing:border-box
 }
 *,*:before,*:after{
@@ -106,7 +106,7 @@ button,select{
     outline:1px dotted ButtonText
 }
  fieldset{
-    border:1px solid #c0c0c0;
+    border:1px solid burlywood;
     margin:0 2px;
     padding:.35em .625em .75em
 }
@@ -324,17 +324,17 @@ a{
     display:block
 }
  .w3-dropdown-hover:first-child,.w3-dropdown-click:hover{
-    background-color:#ccc;
+    background-color:burlywood;
     color:#000
 }
  .w3-dropdown-hover:hover > .w3-button:first-child,.w3-dropdown-click:hover > .w3-button:first-child{
-    background-color:#ccc;
+    background-color:burlywood;
     color:#000
 }
  .w3-dropdown-content{
     cursor:auto;
     color:#000;
-    background-color:#fff;
+    background-color:burlywood;
     display:none;
     position:absolute;
     min-width:160px;
@@ -351,7 +351,7 @@ a{
  .w3-sidebar{
     height:100%;
     width:200px;
-    background-color:#fff;
+    background-color:burlywood;
     position:fixed!important;
     z-index:1;
     overflow:auto
@@ -385,7 +385,7 @@ a{
 }
  .w3-modal-content{
     margin:auto;
-    background-color:#fff;
+    background-color:burlywood;
     position:relative;
     padding:0;
     outline:0;
@@ -771,7 +771,7 @@ a{
 }
  .w3-code{
     width:auto;
-    background-color:#fff;
+    background-color:burly;
     padding:8px 12px;
     border-left:4px solid #4CAF50;
     word-wrap:break-word
